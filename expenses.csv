@@ -1,0 +1,10 @@
+Expense ID,Amount,Description,Paid By,Paid By User ID,Paid By Email,Split Type,Date,User,User ID,User Email,Split Amount,Percentage
+66a62ef6a2405d0c55eb3899,3000,Dinner with friends,Name1,66a62a96fde44f5f71868509,name1@example.com,equal,Sun Jul 28 2024 17:13:50 GMT+0530 (India Standard Time),Name1,66a62a96fde44f5f71868509,name1@example.com,1000,
+66a62ef6a2405d0c55eb3899,3000,Dinner with friends,Name1,66a62a96fde44f5f71868509,name1@example.com,equal,Sun Jul 28 2024 17:13:50 GMT+0530 (India Standard Time),Jane Smith,66a62ee2a2405d0c55eb388d,janesmith@example.com,1000,
+66a62ef6a2405d0c55eb3899,3000,Dinner with friends,Name1,66a62a96fde44f5f71868509,name1@example.com,equal,Sun Jul 28 2024 17:13:50 GMT+0530 (India Standard Time),Alice Johnson,66a62ee2a2405d0c55eb388f,alicejohnson@example.com,1000,
+66a62fd94205a1d6f2235743,3000,Dinner with friends,Name1,66a62a96fde44f5f71868509,name1@example.com,equal,Sun Jul 28 2024 17:17:37 GMT+0530 (India Standard Time),Name1,66a62a96fde44f5f71868509,name1@example.com,1000,
+66a62fd94205a1d6f2235743,3000,Dinner with friends,Name1,66a62a96fde44f5f71868509,name1@example.com,equal,Sun Jul 28 2024 17:17:37 GMT+0530 (India Standard Time),Jane Smith,66a62ee2a2405d0c55eb388d,janesmith@example.com,1000,
+66a62fd94205a1d6f2235743,3000,Dinner with friends,Name1,66a62a96fde44f5f71868509,name1@example.com,equal,Sun Jul 28 2024 17:17:37 GMT+0530 (India Standard Time),Alice Johnson,66a62ee2a2405d0c55eb388f,alicejohnson@example.com,1000,
+66a630434205a1d6f223574c,3000,Dinner with friends,Name1,66a62a96fde44f5f71868509,name1@example.com,percentage,Sun Jul 28 2024 17:19:23 GMT+0530 (India Standard Time),Name1,66a62a96fde44f5f71868509,name1@example.com,1500,50
+66a630434205a1d6f223574c,3000,Dinner with friends,Name1,66a62a96fde44f5f71868509,name1@example.com,percentage,Sun Jul 28 2024 17:19:23 GMT+0530 (India Standard Time),Jane Smith,66a62ee2a2405d0c55eb388d,janesmith@example.com,750,25
+66a630434205a1d6f223574c,3000,Dinner with friends,Name1,66a62a96fde44f5f71868509,name1@example.com,percentage,Sun Jul 28 2024 17:19:23 GMT+0530 (India Standard Time),Alice Johnson,66a62ee2a2405d0c55eb388f,alicejohnson@example.com,750,25
